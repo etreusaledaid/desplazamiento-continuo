@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Control Distribuido</title>
+	<title>Desplazamiento continuo</title>
 	<link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
 	<link rel="stylesheet" href="css/style.css">
     <!--[if lt IE 9]>
