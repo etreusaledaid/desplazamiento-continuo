@@ -7,10 +7,6 @@
 	<title>Desplazamiento continuo</title>
 	<link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
 	<link rel="stylesheet" href="css/style.css">
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
     <script>
 	function buscarPalabras()
 		{
